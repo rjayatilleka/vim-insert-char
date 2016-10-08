@@ -16,10 +16,10 @@ Loremggg ipsum dolor sit amet, consectetur adipiscing elit.
 
 ### Mappings
 
-By default maps to `<Space>`. To change that:
+By default maps to `<Space>`. To change that to underscore:
 
 ```vims
-let g:insert_char#no_default_mapping = 1
+let g:insert_char_no_default_mapping = 1
 nmap _ <Plug>InsertChar
 ```
 
