@@ -18,7 +18,11 @@ Loremggg ipsum dolor sit amet, consectetur adipiscing elit.
 
 By default maps to `<Space>`. To change that:
 
-```vimscript
+```vims
 let g:insert_char#no_default_mapping = 1
-n
+nmap _ <Plug>InsertChar
 ```
+
+### Source
+
+Anonymous contributor at [Vim Wikia](http://vim.wikia.com/wiki/Insert_a_single_character).
