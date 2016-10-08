@@ -1,6 +1,6 @@
 # vim-insert-char
 
-Insert `count` of a character.
+Insert `count` of a character. Repeatable.
 
 ### Usage
 
